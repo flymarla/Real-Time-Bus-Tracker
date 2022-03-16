@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Boston Bus Route 1</title>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+    <script src="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.js"></script>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.css" rel="stylesheet" />
+    <link href="./styles.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div id="map"></div>
+    <div class="information">
+        <h1>Boston Bus Routes</h1>
+        <h5>Click bus icons for addition information.</h5>
+        <button style="font-size: 1.5em" onclick="run()">
+            Show Bus Movement
+        </button>
+    </div>
+    
+    <script src="./mapanimation.js"></script>
+</body>
+
+</html>
