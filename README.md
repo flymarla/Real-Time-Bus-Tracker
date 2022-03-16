@@ -11,7 +11,7 @@ This project shows the route of all buses on route 1 in Boston.
 * When the Show Bus Movement button is clicked, the buses will update their location every 15 seconds.
 * Center of map has been located such that all stops from Nubian to Harvard can be seen at the initial zoom.
 
-<img src="/BostonMapRoute1" alt="Map of Cambridge Area of Boston" width="200" height="200"/>
+<img src="/BostonMapRoute1.png" alt="Map of Cambridge Area of Boston" width="200" height="200"/>
 
 ## How to Run
 
