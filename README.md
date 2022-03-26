@@ -2,11 +2,11 @@
 
 # Boston Bus Route 1
 
-This project shows the route of all buses on route 1 in Boston.
+This project uses an API to show the route of all buses on route 1 in Boston.
 
 ## Description
 
-* Each bus starts out in is real-time position when page is loaded. 
+* Each bus starts out in its real-time position when page is loaded. 
 * Each bus has a popup containing the additional information of bus number, status, and direction headed.
 * When the Show Bus Movement button is clicked, the buses will update their location every 15 seconds.
 * Center of map has been located such that all stops from Nubian to Harvard can be seen at the initial zoom.
